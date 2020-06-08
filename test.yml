@@ -7,6 +7,6 @@ jobs:
  steps:
   - uses: actions/checkout@v1
   - name: Build Code
-    run: pwd && whoami && ls -l
+    run: make
   - name: run
   - ./Hello
