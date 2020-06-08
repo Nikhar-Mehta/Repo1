@@ -1,4 +1,4 @@
-package proj1;
+
 
 public class Hello {
 
@@ -8,7 +8,7 @@ public class Hello {
 		System.out.print("Hello There!");
 		System.out.print("Hello There!");
 		System.out.print("Hello There!");
-
-	}
+}
 
 }
+	
